@@ -1,11 +1,10 @@
 .button {
-  width: 250px;
-  height: 60px;
+  width: 380px;
+  height: 40px;
   position: relative;
   overflow: hidden;
   border-radius: 10px;
   border: 0;
-  color: #f7f7f7;
   background: #7cf7f7f7;
   cursor: pointer;
   transition: 0.2s;
