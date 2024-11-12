@@ -71,7 +71,5 @@ li {
 }
 
 #searchInput {
-  max-width: 710px;
-  width: 100%;
+  width: 500px; /* Define a largura desejada */
 }
-
